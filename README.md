@@ -2,7 +2,7 @@
 
 A quick start Vue project that shows how to bind complex data in the Syncfusion [Vue Query Builder](https://www.syncfusion.com/vue-components/vue-query-builder?utm_source=github&utm_medium=listing&utm_campaign=tutorial-videos-vue-query-builder-complexdatabinding-sample) component. This project contains simple code to bind complex data using nested columns and directly connect the complex data source to the component. 
 
-Watch the video: Coming soon…
+Watch the video: https://www.syncfusion.com/tutorial-videos/vue/query-builder?title=how-to-bind-complex-data-in-vue-query-builder
 
 Refer to the documentation to learn about the Vue Query Builder component: https://ej2.syncfusion.com/vue/documentation/query-builder/data-binding#complex-data-binding 
 
